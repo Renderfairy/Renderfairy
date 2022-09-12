@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with finding internship
 - ⚡ Fun fact: I own a horse 
 
+---
+
+<a href="https://www.codewars.com/users/Renderfairy/badges/micro" target="_blank">
