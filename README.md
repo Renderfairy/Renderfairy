@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://www.codewars.com/users/Renderfairy/badges/micro" alt="Codewars badge" align="left>
+<img src="https://www.codewars.com/users/Renderfairy/badges/micro" alt="Codewars badge">
 
 <!--
 **Renderfairy/Renderfairy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
