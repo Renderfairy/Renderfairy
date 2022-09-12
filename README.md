@@ -9,6 +9,7 @@ I'm Martyna and here is some stuff about me:
 
 Here are some ideas to get you started:
 -->
+---
 
 - 🔭 I’m currently working on My stable app
 - 🌱 I’m currently learning Django, Flask, SQLAlchemy
