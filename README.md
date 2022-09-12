@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I own a horse 
 
 ---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martyna-witkowska-3b101684/)
 
 <img src="https://www.codewars.com/users/Renderfairy/badges/micro" alt="Codewars badge">
