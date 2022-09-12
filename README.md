@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Martyna and here is some stuff about me:
+
 <img src="https://www.codewars.com/users/Renderfairy/badges/micro" alt="Codewars badge">
 
 <!--
