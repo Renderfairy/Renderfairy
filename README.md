@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 
 ---
 
-<a href="https://www.codewars.com/users/Renderfairy/badges/micro" target="_blank">
+<img src="https://www.codewars.com/users/Renderfairy/badges/micro" alt="Codewars badge">
