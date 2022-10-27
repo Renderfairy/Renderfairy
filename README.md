@@ -55,6 +55,5 @@ Version Control
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Renderfairy&theme=blue-green)
-![Lenguages](https://github-readme-stats.vercel.app/api/top-langs/?username=Renderfairy&theme=blue-green)
+![Stats](https://github-readme-stats.vercel.app/api?username=martynawitkowska&theme=blue-green)
 
