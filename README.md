@@ -20,40 +20,37 @@ Here are some ideas to get you started:
 
 ---
 ### Social
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martyna-witkowska-3b101684/)
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Renderfairy)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/renderfairy/)
+[![LinkedIn](https://img.shields.io/badge/-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martyna-witkowska-3b101684/)
+[![Codewars](https://img.shields.io/badge/-B1361E?logo=Codewars&logoColor=white)](https://www.codewars.com/users/Renderfairy)
 
----
 ### Tech
 
 Backend
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+[![python](https://img.shields.io/badge/--3776AB?logo=python&logoColor=FFF)](https://www.python.org)
+[![django](https://img.shields.io/badge/--092E20?logo=django&logoColor=FFF)](https://www.djangoproject.com/)
+[![djangorest](https://img.shields.io/badge/-REST-092E20?logo=django&logoColor=FFF)](https://www.django-rest-framework.org/)
+[![flask](https://img.shields.io/badge/-000000?logo=flask&logoColor=FFF)](https://flask.palletsprojects.com/en/2.2.x/)
 
 DB
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+[![Postgres](https://img.shields.io/badge/-4169E1?logo=postgresql&logoColor=FFF)](https://www.postgresql.org/)
+[![SQLite](https://img.shields.io/badge/-003B57?logo=sqlite&logoColor=FFF)](https://www.sqlite.org/index.html)
 
 Frontend
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
+[![React](https://img.shields.io/badge/-61DAFB?logo=react&logoColor=000)](https://reactjs.org/)
+[![Redux](https://img.shields.io/badge/-764ABC?logo=redux&logoColor=white)](https://redux.js.org/)
 
 Containers
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/-%230db7ed.svg?logo=docker&logoColor=white)
 
 Version Control
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+[![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
 
----
 
-![Stats](https://github-readme-stats.vercel.app/api?username=martynawitkowska&theme=blue-green)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=martynawitkowska&theme=tokyonight)](https://git.io/streak-stats)
 
