@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <h3 align="center">Social</h3>
     <p align="center">
         <a href="https://www.linkedin.com/in/martyna-witkowska-3b101684/" style="padding: 10px"><img src="https://img.shields.io/badge/-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-        <a href="https://www.codewars.com/users/Renderfairy" style="padding: 10px"><img src="https://img.shields.io/badge/-B1361E?logo=Codewars&logoColor=whitee" alt="Codewars"></a>
+        <a href="https://www.codewars.com/users/martynawitkowska" style="padding: 10px"><img src="https://img.shields.io/badge/-B1361E?logo=Codewars&logoColor=whitee" alt="Codewars"></a>
     </p>
 
 <h3 align="center">Backend</h3>
