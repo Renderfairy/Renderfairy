@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Django, Flask, SQLAlchemy
 - 👯 I’m looking to collaborate on everything related to python
 - 🤔 I’m looking for help with finding internship
-- 💻 My Codewars badge: <img src="https://www.codewars.com/users/Renderfairy/badges/micro" alt="Codewars badge">
+- 💻 My Codewars badge: <img src="https://www.codewars.com/users/martynawitkowska/badges/micro" alt="Codewars badge">
 - ⚡ Fun fact: I own a horse
 
 ---
